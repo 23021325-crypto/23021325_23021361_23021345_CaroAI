@@ -1,0 +1,9 @@
+BOARD_SIZE = 9
+WIN_LENGTH = 4
+EMPTY = "."
+HUMAN = "X"
+AI = "O"
+DEFAULT_DEPTH = 4
+MAX_CANDIDATE_MOVES = 10
+LEARNING_FILE = "learning_data.json"
+RESULT_FILE = "results.csv"

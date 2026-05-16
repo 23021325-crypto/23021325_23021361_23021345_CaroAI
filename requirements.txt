@@ -1,0 +1,2 @@
+# Du an su dung thu vien chuan cua Python.
+# Tkinter thuong co san khi cai Python tren Windows.

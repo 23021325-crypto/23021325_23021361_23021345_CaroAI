@@ -1,0 +1,41 @@
+﻿Trang thai,Thuat toan,Do sau,Nuoc di,Diem danh gia,So trang thai da xet,Thoi gian (s)
+Dau van,Minimax,1,"(3, 4)",-155,11,0.00422
+Dau van,Alpha-Beta,1,"(3, 4)",-155,11,0.002748
+Dau van,Minimax,2,"(3, 4)",-14723,111,0.030544
+Dau van,Alpha-Beta,2,"(3, 4)",-14723,50,0.015504
+Dau van,Minimax,3,"(3, 3)",3282,1111,0.355773
+Dau van,Alpha-Beta,3,"(3, 3)",3282,267,0.096685
+Dau van,Minimax,4,"(3, 3)",-31108,11111,3.874261
+Dau van,Alpha-Beta,4,"(3, 3)",-31108,830,0.405468
+Giua van,Minimax,1,"(3, 5)",55683,11,0.006975
+Giua van,Alpha-Beta,1,"(3, 5)",55683,11,0.007059
+Giua van,Minimax,2,"(3, 5)",7688,95,0.037698
+Giua van,Alpha-Beta,2,"(3, 5)",7688,23,0.016008
+Giua van,Minimax,3,"(3, 5)",10000000,775,0.318864
+Giua van,Alpha-Beta,3,"(3, 5)",10000000,73,0.046106
+Giua van,Minimax,4,"(3, 5)",10000000,5254,2.228107
+Giua van,Alpha-Beta,4,"(3, 5)",10000000,121,0.100913
+May co the thang ngay,Minimax,1,"(3, 1)",10000000,3,0.000268
+May co the thang ngay,Alpha-Beta,1,"(3, 1)",10000000,3,0.000238
+May co the thang ngay,Minimax,2,"(3, 1)",10000000,3,0.000282
+May co the thang ngay,Alpha-Beta,2,"(3, 1)",10000000,3,0.000267
+May co the thang ngay,Minimax,3,"(3, 1)",10000000,3,0.000237
+May co the thang ngay,Alpha-Beta,3,"(3, 1)",10000000,3,0.000253
+May co the thang ngay,Minimax,4,"(3, 1)",10000000,3,0.000235
+May co the thang ngay,Alpha-Beta,4,"(3, 1)",10000000,3,0.000263
+Nguoi sap thang can chan,Minimax,1,"(3, 0)",36068,2,0.000856
+Nguoi sap thang can chan,Alpha-Beta,1,"(3, 0)",36068,2,0.000875
+Nguoi sap thang can chan,Minimax,2,"(3, 0)",-7208,12,0.00422
+Nguoi sap thang can chan,Alpha-Beta,2,"(3, 0)",-7208,12,0.004181
+Nguoi sap thang can chan,Minimax,3,"(3, 0)",62273,112,0.04435
+Nguoi sap thang can chan,Alpha-Beta,3,"(3, 0)",62273,31,0.021949
+Nguoi sap thang can chan,Minimax,4,"(3, 0)",22612,601,0.288429
+Nguoi sap thang can chan,Alpha-Beta,4,"(3, 0)",22612,116,0.077155
+Hai ben cung tan cong,Minimax,1,"(4, 5)",86886,11,0.005146
+Hai ben cung tan cong,Alpha-Beta,1,"(4, 5)",86886,11,0.004335
+Hai ben cung tan cong,Minimax,2,"(3, 5)",44035,61,0.030103
+Hai ben cung tan cong,Alpha-Beta,2,"(3, 5)",44035,23,0.017835
+Hai ben cung tan cong,Minimax,3,"(4, 5)",10000000,435,0.19633
+Hai ben cung tan cong,Alpha-Beta,3,"(4, 5)",10000000,87,0.04851
+Hai ben cung tan cong,Minimax,4,"(4, 5)",10000000,2075,1.292126
+Hai ben cung tan cong,Alpha-Beta,4,"(4, 5)",10000000,147,0.147596

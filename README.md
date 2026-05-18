@@ -26,37 +26,40 @@ AI duoc cai dat bang:
 
 Chương trình được viết bằng ngôn ngữ Python và sử dụng thư viện giao diện đồ họa Tkinter. Đây là thư viện có sẵn khi cài Python trên Windows, nên thông thường không cần cài thêm thư viện ngoài.
 
-## Phiên bản Python khuyến nghị
+### Phiên bản Python khuyến nghị
 
 Nên sử dụng Python phiên bản 3.10 trở lên.
 
 Các phiên bản có thể chạy tốt:
 
-```test
+```text
 Python 3.10
 Python 3.11
 Python 3.12
-## 4. Cach chay game 
+```
 
-Mo Command Prompt tai thu muc `source_code`, sau do chay:
+## 4. Cách chạy game
+
+Mở Command Prompt tại thư mục `source_code`, sau đó chạy:
 
 ```bash
 python main.py
 ```
 
-Neu Windows khong nhan lenh `python`, thu:
+Nếu Windows không nhận lệnh `python`, thử:
 
 ```bash
 py main.py
 ```
 
-Tren giao dien, nguoi choi co the:
-- Nhap ten nguoi choi
-- Bam truc tiep vao o tren ban co de danh
-- Chon thuat toan `Minimax` hoac `Alpha-Beta`
-- Chon do sau tim kiem tu 1 den 4
-- Bat/tat bo nho hoc
-- Di lai, choi lai, tam dung, xoa bo nho hoc
+Trên giao diện, người chơi có thể:
+
+- Nhập tên người chơi.
+- Bấm trực tiếp vào ô trên bàn cờ để đánh.
+- Chọn thuật toán `Minimax` hoặc `Alpha-Beta`.
+- Chọn độ sâu tìm kiếm từ 1 đến 4.
+- Bật/tắt bộ nhớ học.
+- Đi lại, chơi lại, tạm dừng, xóa bộ nhớ học.
 
 ## 5. Cach chay thuc nghiem
 

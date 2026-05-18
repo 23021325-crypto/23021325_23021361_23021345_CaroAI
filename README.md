@@ -26,7 +26,7 @@ AI duoc cai dat bang:
 
 Chương trình được viết bằng ngôn ngữ Python và sử dụng thư viện giao diện đồ họa Tkinter. Đây là thư viện có sẵn khi cài Python trên Windows, nên thông thường không cần cài thêm thư viện ngoài.
 
-### Phiên bản Python khuyến nghị
+## Phiên bản Python khuyến nghị
 
 Nên sử dụng Python phiên bản 3.10 trở lên.
 
@@ -36,7 +36,8 @@ Các phiên bản có thể chạy tốt:
 Python 3.10
 Python 3.11
 Python 3.12
-## 4. Cach chay game
+``` markdown
+## 4. Cach chay game 
 
 Mo Command Prompt tai thu muc `source_code`, sau do chay:
 

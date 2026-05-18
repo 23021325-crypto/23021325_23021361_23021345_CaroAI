@@ -32,11 +32,10 @@ Nên sử dụng Python phiên bản 3.10 trở lên.
 
 Các phiên bản có thể chạy tốt:
 
-```bash
+```test
 Python 3.10
 Python 3.11
 Python 3.12
-``` markdown
 ## 4. Cach chay game 
 
 Mo Command Prompt tai thu muc `source_code`, sau do chay:

@@ -22,8 +22,21 @@ AI duoc cai dat bang:
 | `recent_finished_games.json` | File tự sinh để lưu dữ liệu học kinh nghiệm của AI |
 | `requirements.txt` | File yêu cầu thư viện |
 | `README.md` | Hướng dẫn chạy chương trình |
+## 3. Yêu cầu cài đặt
 
-## 3. Cach chay game
+Chương trình được viết bằng ngôn ngữ Python và sử dụng thư viện giao diện đồ họa Tkinter. Đây là thư viện có sẵn khi cài Python trên Windows, nên thông thường không cần cài thêm thư viện ngoài.
+
+### Phiên bản Python khuyến nghị
+
+Nên sử dụng Python phiên bản 3.10 trở lên.
+
+Các phiên bản có thể chạy tốt:
+
+```bash
+Python 3.10
+Python 3.11
+Python 3.12
+## 4. Cach chay game
 
 Mo Command Prompt tai thu muc `source_code`, sau do chay:
 
@@ -45,7 +58,7 @@ Tren giao dien, nguoi choi co the:
 - Bat/tat bo nho hoc
 - Di lai, choi lai, tam dung, xoa bo nho hoc
 
-## 4. Cach chay thuc nghiem
+## 5. Cach chay thuc nghiem
 
 Mo Command Prompt tai thu muc `source_code`, chay:
 
@@ -59,13 +72,13 @@ Chuong trinh se chay Minimax va Alpha-Beta tren 5 trang thai kiem thu, voi cac d
 results.csv
 ```
 
-## 5. Ghi chu ve hoc kinh nghiem
+## 6. Ghi chu ve hoc kinh nghiem
 
 File `ai/learning.py` cai dat co che hoc don gian. Sau moi tran, cac nuoc di cua AI duoc cong diem neu AI thang, tru diem neu AI thua va cong diem nhe neu hoa. Du lieu hoc duoc luu vao `learning_data.json` va duoc cong them vao diem danh gia o cac van sau.
 
 Day khong phai neural network hay deep learning. Thuat toan chinh cua bai van la Minimax va Alpha-Beta pruning theo yeu cau de bai.
 
-## 6. Thong tin nop bai
+## 7. Thong tin nop bai
 
 Ten repository nen dat theo mau:
 

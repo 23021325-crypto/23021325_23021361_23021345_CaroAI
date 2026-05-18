@@ -11,30 +11,17 @@ AI duoc cai dat bang:
 - Co che hoc kinh nghiem don gian sau moi van
 
 ## 2. Cau truc thu muc
-
-```text
-source_code/
-├── main.py                  # Chay giao dien game
-├── benchmark.py             # Chay thuc nghiem Minimax va Alpha-Beta
-├── config.py                # Cau hinh chung
-├── ai/
-│   ├── agent.py             # Dieu phoi AI, chon thuat toan
-│   ├── minimax.py           # Thuat toan Minimax
-│   ├── alpha_beta.py        # Thuat toan Alpha-Beta pruning
-│   ├── evaluator.py         # Ham danh gia trang thai
-│   └── learning.py          # Bo nho hoc kinh nghiem sau tran
-├── game/
-│   ├── board.py             # Bieu dien ban co, luat choi, kiem tra thang/thua/hoa
-│   ├── move_generator.py    # Sinh nuoc di hop le va sap xep nuoc di
-│   └── test_states.py       # 5 trang thai kiem thu
-├── ui/
-│   ├── app.py               # Khoi tao ung dung Tkinter
-│   ├── start_screen.py      # Man hinh bat dau
-│   ├── game_screen.py       # Man hinh choi game
-│   └── end_screen.py        # Thong bao ket thuc
-└── utils/
-    └── logger.py            # Ghi ket qua CSV
-```
+| File | Chức năng |
+|---|---|
+| `ui.py` | Chạy giao diện đồ họa Tkinter, vẽ bàn cờ và xử lý click chuột |
+| `main.py` | File chạy chương trình chính |
+| `game_logic.py` | Xử lý luật chơi, bàn cờ, kiểm tra thắng/thua/hòa và sinh nước đi |
+| `evaluation.py` | Hàm đánh giá trạng thái bàn cờ |
+| `ai_algorithms.py` | Cài đặt Minimax, Alpha-Beta và bộ nhớ học kinh nghiệm |
+| `benchmark.py` | Chạy thực nghiệm so sánh Minimax và Alpha-Beta |
+| `recent_finished_games.json` | File tự sinh để lưu dữ liệu học kinh nghiệm của AI |
+| `requirements.txt` | File yêu cầu thư viện |
+| `README.md` | Hướng dẫn chạy chương trình |
 
 ## 3. Cach chay game
 
@@ -83,7 +70,7 @@ Day khong phai neural network hay deep learning. Thuat toan chinh cua bai van la
 Ten repository nen dat theo mau:
 
 ```text
-mssv1_mssv2_mssv3_CaroAI
+23021325_23021361_23021345_CaroAI
 ```
 
 Can co cac thanh phan:

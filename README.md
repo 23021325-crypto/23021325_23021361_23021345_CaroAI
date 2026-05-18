@@ -95,6 +95,4 @@ Can co cac thanh phan:
 source_code/
 requirements.txt
 README.md
-Bao_cao_CaroAI.docx
-Bao_cao_CaroAI.pdf
 ```
